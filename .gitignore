@@ -111,3 +111,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Content/InfinityBladeAdversaries/
+Content/InfinityBladeEffects/
+Content/InfinityBladeFireLands/
+Content/InfinityBladeGrassLands/
+Content/InfinityBladeIceLands/
+Content/InfinityBladeWarriors/
+Content/InfinityBladeWeapons/
